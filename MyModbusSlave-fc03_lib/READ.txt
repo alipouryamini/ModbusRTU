@@ -1,0 +1,1 @@
+I Create this lib for stm32f103 in modbus slave and support function code 03(read holding register) and 10 for write.
